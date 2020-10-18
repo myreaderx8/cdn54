@@ -1,0 +1,381 @@
+
+
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE10">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="shortcut icon" href="style/images/favicon.ico">
+    <title>Art of Barter</title>
+    <!-- Bootstrap core CSS -->
+    <link href="style/css/style.css" rel="stylesheet">
+    <link href="style/css/color/teal2.css" rel="stylesheet">
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="style/js/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+
+    <script src="https://maps.google.com/maps?file=api&amp;v=3&amp;key=AIzaSyCQ7O92-zrkDLXFaMGAx574NIBz2s0dGrw&amp;sensor=false"
+        type="text/javascript"></script>
+</head>
+<body id="MasterPageBodyTag">
+    <form method="post" action="./404.aspx" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTIwMDIzMDY0MjdkZMjbEbISw3l0jqcbC1VWS6+UgaZ2fdGFNm8poU8anY7g" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="193A34DB" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAIU9eB9kB//VH1K5eWUqcqxCPvlvwBboFdZ+tYjLeo3N/jV8mbSocp2FUQo0F39kGqVvFgVYm5ewtoqyhfqOz+a" />
+</div>
+
+        <!-- Start Loading -->
+
+        <!-- End Loading  -->
+
+        <!-- Start Sidebar  -->
+
+        <!-- End Sidebar  -->
+
+        <div class="content-wrap">
+            <div id="home" class="body-wrapper">
+
+                <!-- Start Section Header style3 -->
+
+                <section class="Header-Style3">
+                    
+
+                    <!-- Start Navbar -->
+
+                    <div class="Navbar-Header navbar basic" data-sticky="false">
+                        <div class="container">
+                            <div class="row">
+                                <div class="Logo-Header col-md-2">
+                                    <a class="navbar-logo" style="width:100%;" href="index.aspx"></a>
+                                </div>
+                                <div class="right-wrapper">
+                                    <div class="responsive-menu">
+                                        <a class="responsive-menu pull-right" data-toggle="collapse" data-target=".navbar-collapse"><i class='fa fa-bars'></i></a>
+                                    </div>
+                                </div>
+
+                                <div class="collapse pull-right navbar-collapse">
+                                    <div class="Menu-Header top-menu">
+                                        <ul class="nav navbar-nav">
+
+                                            
+                                            <li class="dropdown">
+                                                <a href="index.aspx" class="dropdown-toggle">Home</a>
+                                   
+                                            </li>
+
+                                            
+
+                                            <li class="dropdown parent-list">
+                                                <a href="#" class="dropdown-toggle js-activated">About Us</a>
+                                                <ul class="dropdown-menu">
+                                                    <li><a href="About.aspx">About AOB</a></li>
+                                                    <li><a href="Testimonials.aspx">Client Testimonials</a></li>
+                                                    <li><a href="MeetTheTeam.aspx">Meet the AOB Team</a></li>
+
+                                                    <li><a href="Press.aspx">AOB in the News</a></li>
+                                                </ul>
+                                            </li>
+
+                                            <li>
+                                                <a class="dropdown-toggle js-activated" href="#">Barter 101</a>
+                                                <ul class="dropdown-menu">
+                                                    
+                                                    <li class="dropdown-submenu">
+                                                        <a href="Barterman.aspx">Barter Man</a>
+                                                    </li>
+                                                    
+                                                 
+                                                     <li class="dropdown-submenu"><a href="HowToVideos.aspx">How To Videos</a></li>
+                                                    
+
+                                                    
+                                                     <li class="dropdown-submenu">
+                                                        <a href="GoodsAndServices.aspx">What can I buy through AOB</a>
+                                                    </li>
+                                                    
+                                                      <li class="dropdown-submenu"><a href="Barter101_Glossary.aspx">Glossary of Terms</a></li>
+                                                    <li class="dropdown-submenu"><a href="Barter101_RulesAndEthics.aspx">Rules and Ethics</a></li>
+                                                    <li class="dropdown-submenu"><a href="Barter101_Referrals.aspx">Referrals</a></li>
+
+
+                                                </ul>
+                                            </li>
+
+                                            <li class="dropdown parent-list">
+                                                <a href="#" class="dropdown-toggle js-activated">Join AOB</a>
+                                                <ul class="dropdown-menu">
+
+                                                    <li class="dropdown-submenu">
+                                                        <a href="FromThePresident.aspx">An Invitation from the President</a>
+                                                    </li>
+                                             
+                                                
+                                                </ul>
+                                            </li>
+
+                 
+
+                                            <li class="parent-list">
+                                                <a href="#" class="dropdown-toggle js-activated">Members Area</a>
+                                                <ul class="dropdown-menu">
+                                                    
+                                                    <li class="dropdown-submenu">
+                                                        <a href="Login.aspx">Log In</a>
+                                                    </li>
+                                                    
+
+                                                    <li class="dropdown-submenu">
+                                                        <a href="Member_AccountSummary.aspx">Current Month Activity</a>
+                                                    </li>
+                                                        <li class="dropdown-submenu">
+                                                        <a href="Member_Payment.aspx">Make a Payment</a>
+                                                    </li>
+                                                    
+                                                    <li class="dropdown-submenu">
+                                                        <a href="Member_Authorize.aspx">Enter a Transaction</a>
+                                                    </li>
+                                                    <li class="dropdown-submenu">
+                                                        <a href="Member_Directory.aspx">Member Directory</a>
+                                                    </li>
+                                                      <li class="dropdown-submenu">
+                                                        <a href="Member_Statements.aspx">Statements & History</a>
+                                                    </li>
+
+                                                         <li class="dropdown-submenu">
+                                                        <a href="Member_Directory_NewMembers.aspx">New Trading Partners</a>
+                                                    </li>
+          <li class="dropdown-submenu">
+                                                        <a href="EMailArchive.aspx">EMail Archive</a>
+                                                    </li>
+
+                                                    <!--MARKETPLACE-->
+                                                       <li class="dropdown-submenu">
+                                                        <a href="Member_Marketplace_Search.aspx">Buy it Now</a>
+                                                    </li>
+                                                    <li class="dropdown-submenu">
+                                                        <a href="Member_Marketplace_ItemAdd.aspx">Post an Item for Sale</a>
+                                                    </li>
+                                                    <li class="dropdown-submenu">
+                                                        <a href="Member_Marketplace_My_Items.aspx">View My Items for Sale</a>
+                                                    </li>
+                                                       <!--END MARKETPLACE-->
+
+
+                                                    <li class="dropdown-submenu">
+                                                        <a href="Downloads.aspx">Important Forms and Downloads</a>
+                                                    </li>
+                                                 
+
+                                                    
+                                                </ul>
+                                            </li>
+
+                                            <li class="dropdown parent-list">
+                                                <a href="Contact.aspx" class="dropdown-toggle js-activated">Contact Us</a>
+                                                <ul class="dropdown-menu">
+
+                                                    <li class="dropdown-submenu">
+                                                        <a href="Contact.aspx">Contact Us</a>
+                                                    </li>
+                                                </ul>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- End Navbar -->
+                </section>
+
+                <!-- End Section Header style3 -->
+
+                
+
+<section id="Register" class="light-wrapper">
+	<div class="container inner">
+    	<div class="row">
+        	<div class="col-md-12">
+                <div class="title-section text-center">
+                    <h3>Page Not Found</h3>
+                    <div class="line-break"></div>
+                </div>
+                <div class="description-section">
+                    <p>We've made some improvements to our site and the page you're looking for is no longer available.  You can find wshat you're looking for in the menu above, or view our entire site starting on the home page. </p>
+                </div>
+            </div>
+        </div>
+        <div class="divcod30"></div>
+        <div class="row">
+			<div class="Register-Site col-md-4">
+				<form class="form-signin cform" method="post" action="php/contact.php" id="cform" autocomplete="on">
+				
+
+					<div class="form-input">
+                        <input type="submit" name="ctl00$ContentPlaceHolderBody$Button1" value="Go to Home Page" id="ContentPlaceHolderBody_Button1" class="btn btn-large main-bg" />
+					</div>
+				</form> 
+			</div>
+        </div>
+    </div>
+</section>
+
+
+                <!-- Start Footer -->
+
+                <section id="footer-4">
+                    <div class="container inner-f">
+                        <div class="row">
+                            <div class="Footer-Blocks">
+
+                                <!-- Start About with logo Footer -->
+
+                                <div class="col-md-4">
+                                    <!--					<div class="Logo-About">
+						<a class="Footer-logo" href="index.html"></a>
+					</div>-->
+                                    <div class="Bottom-Block-Footer">
+                                        <div class="About">
+                                            <h3 style="color: #fff;">Art of Barter</h3>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!-- End About with logo Footer -->
+
+                                <!-- Start Last Post Footer -->
+
+                                <div class="col-md-4">
+                                    <div class="Top-Block-Footer">
+                                        <h2>Contact Info</h2>
+                                    </div>
+                                    <div class="divcod20"></div>
+                                    <div class="Contact-Footer">
+                                        <ul>
+                                            <li><i class="fa fa-map-marker"></i>
+                                                <p>609 E. Chicago St., Elgin, IL 60120</p>
+                                            </li>
+                                            <li><i class="fa fa-phone"></i>
+                                                <p>(847) 214-5656</p>
+                                            </li>
+                                            <li><i class="fa fa-envelope"></i>
+                                                <p>info@artofbarter.com</p>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+
+                                <!-- End Last Post Footer -->
+
+                                <!-- Start Follow Footer -->
+
+                                <!--		<div class="col-md-4">
+				<div class="Top-Block-Footer">
+						<h2>Follow us!</h2>
+					</div>
+					<div class="divcod20"></div>
+					<div class="Bottom-Block-Footer">
+						<div class="Join-Footer">
+							<div id="mc_embed_signup">
+								<form action="//fobles.us10.list-manage.com/subscribe/post?u=0733acea8768d8355b073fa38&amp;id=726e299dd0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+									<input type="email" value="" placeholder="Type Email To Join Our Newsletter" name="EMAIL" class="txt-box required email" id="mce-EMAIL">
+									<input type="submit" value="Join" name="subscribe" id="mc-embedded-subscribe" class="button btn btnjoin">
+								</form>
+							</div>
+						</div>
+                        <div class="Social-join">
+                           	<div class="Social-Footer">
+                                <ul class="icons-ul">
+                                    <li class="facebook"><a href="#"><span class="fa fa-facebook hvr-icon-up"></span></a></li>
+                                    <li class="twitter"><a href="#"><span class="fa fa-twitter hvr-icon-up"></span></a></li>
+                                    <li class="google"><a href="#"><span class="fa fa-google-plus hvr-icon-up"></span></a></li>
+                                    <li class="vimeo"><a href="#"><span class="fa fa-vimeo-square hvr-icon-up"></span></a></li>
+                                    <li class="linkedin"><a href="#"><span class="fa fa-linkedin hvr-icon-up"></span></a></li>
+                                    <li class="dribbble"><a href="#"><span class="fa fa-dribbble hvr-icon-up"></span></a></li>
+                                    <li class="youtube"><a href="#"><span class="fa fa-youtube-play hvr-icon-up"></span></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+				</div>-->
+
+                                <!-- End Follow Footer -->
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <section id="Bottom-Footer">
+                    <div class="container inner-f">
+                        <div class="row">
+                            <div class="col-md-4">
+                                <div class="Rights-Reserved">
+                                    <h2>All Rights Reserved © 2015. 2 </h2>
+                                </div>
+                            </div>
+                            <div class="col-md-8 text-right">
+                                <div class="Link-Footer">
+                                    <ul>
+                                        <li><a href="index.aspx">Home</a></li>
+                                        <li><a href="About.aspx">About Us</a></li>
+                                        <li><a href="Barter101_Introduction.aspx">Barter 101</a></li>
+                                        <li><a href="Join.aspx">Join AOB</a></li>
+                                        <li><a href="GoodsAndServices.aspx">Goods & Services</a></li>
+                                        <li><a href="Login.aspx">Members Only</a></li>
+                                        <li><a href="Contact.aspx">Contact Us</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- End Footer -->
+            </div>
+
+            <!-- Back to top Link -->
+            <div id="to-top" class="main-bg"><span class="fa fa-chevron-up"></span></div>
+        </div>
+
+        <!-- Placed at the end of the document so the pages load faster -->
+        <script type="text/javascript" src="style/js/jquery-1.11.3.min.js"></script>
+        <script type="text/javascript" src="style/js/bootstrap.min.js"></script>
+        <script type="text/javascript" src="style/js/twitter-bootstrap-hover-dropdown.min.js"></script>
+
+        <script type="text/javascript" src="style/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
+        <script type="text/javascript" src="style/rs-plugin/js/jquery.themepunch.tools.min.js"></script>
+
+        <script type="text/javascript" src="style/js/isotope.pkgd.min.js"></script>
+        <script type="text/javascript" src="style/js/jquery.easing.min.js"></script>
+        <script type="text/javascript" src="style/js/jquery.elevateZoom-3.0.8.min.js"></script>
+        <script type="text/javascript" src="style/js/jquery.fancybox.js"></script>
+        <script type="text/javascript" src="style/js/jquery.fancybox.pack.js"></script>
+        <script type="text/javascript" src="style/js/jquery.fancybox-media.js"></script>
+        <script type="text/javascript" src="style/js/jquery.inview.min.js"></script>
+        <script type="text/javascript" src="style/js/jflickrfeed.min.js"></script>
+        <script type="text/javascript" src="style/js/tweetie.min.js"></script>
+
+        <script type="text/javascript" src="style/js/modernizr.custom.js"></script>
+        <script type="text/javascript" src="style/js/classie.js"></script>
+        <script type="text/javascript" src="style/js/main.js"></script>
+        <script type="text/javascript" src="style/js/owl.carousel.min.js"></script>
+        <script type="text/javascript" src="style/js/jquery.counterup.js"></script>
+        <script type="text/javascript" src="style/js/waypoints.min.js"></script>
+        <script type="text/javascript" src="style/js/wow.min.js"></script>
+        <script type="text/javascript" src="style/js/custom.js"></script>
+        <script src="elements/jquery.maskedinput.js"></script>
+    </form>
+</body>
+</html>
